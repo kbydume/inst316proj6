@@ -1,4 +1,4 @@
-# inst316proj6
+# inst314proj6
 ##This is a dataset curated for INST 314 at UMD 
 ## This data was collected on 10 different people of various geneder identities, ages and occupations. 
 ##This questionnaire included questions about feminism more specifically: 
